@@ -1,0 +1,32 @@
+{
+  "guild_id": "3056876933",
+  "region": "IND",
+  "guild_name": "spicycoke",
+  "guild_region": "IND",
+  "max_members": 20,
+  "guild_level": 1,
+  "current_members": 14,
+  "details": {
+    "AutoApprovalStatus": "ON",
+    "AvatarName": "LION",
+    "CreationTime": "2026-11-21 07:59:48",
+    "CurrentMembers": 14,
+    "FrameName": "BEGINNER GUILD FRAME",
+    "GuildId": 3056876933,
+    "GuildLevel": 1,
+    "GuildName": "spicycoke",
+    "GuildRegion": "IND",
+    "GuildSlogan": "Welcome!",
+    "LastNoticeChangeTime": "Never",
+    "LastSloganChangeTime": "Never",
+    "MaxMembers": 20,
+    "MinBrRank": "Default",
+    "MinCsRank": "Default",
+    "MinLevelReq": 0,
+    "TotalActivityPoints": 0,
+    "WeeklyActivityPoints": 0,
+    "last_updated": "2026-11-23 07:30:36",
+    "status": "success"
+  },
+  "updated_at": 1795419037
+}
